@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/loadQuestionAdminBySubjectServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/logOutServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/registration/RegistrationDTO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/registration/RegistrationError.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/web/result.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/question/QuestionDTO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/deleteQuestionServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/question/QuestionDAO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/RegisterServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/result/ResultDAO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/loadQuestionAdminByQuestionNameServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/web/register.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/answer/AnswerDAO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/result/ResultDTO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/filter/FilterController.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/addNewAnswerServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/takeQuizServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/web/doquiz.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/web/homeAdmin.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/quizdetail/QuizDetailDAO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/registration/RegistrationDAO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/loadQuestionAdminByStatusServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/utilities/DBHelpers.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/web/error.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/quiz/QuizDTO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/loadQuestionAdminServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/updateQuestionServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/loadAnswerAdminServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/takeQuizPrjServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/showHistoryQuizServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/addNewQuestionServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/web/login.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/web/homeStudent.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/updateAnswerServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/listener/MyContextListener.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/finishQuizServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/web/WEB-INF/filter.txt</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/web/showHistory.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/answer/AnswerDTO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014.%20Quiz%20online-550/J3.L.P0014/src/java/datdq/quiz/QuizDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
